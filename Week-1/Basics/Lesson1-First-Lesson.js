@@ -24,5 +24,5 @@ age = 'kaan'
 console.log(typeof age);
 
 const birthYear = 1995;
-birthYear = 2; //gives you an error
+//birthYear = 2; //gives you an error bc. its constant var
 //const job; //give error too
