@@ -10,19 +10,19 @@
 
 //alert for popop on chrome
 
-// alert("I'm learning JavaScript");
+alert("I'm learning JavaScript");
 
-// console.log(typeof true);
-// console.log(typeof "Kaan");
-// console.log(typeof 22);
+console.log(typeof true);
+console.log(typeof "Kaan");
+console.log(typeof 22);
 
-// let age = 22;
-// console.log(typeof age);
-// age = 23;
-// console.log(typeof age);
-// age = 'kaan'
-// console.log(typeof age);
+let age = 22;
+console.log(typeof age);
+age = 23;
+console.log(typeof age);
+age = 'kaan'
+console.log(typeof age);
 
-// const birthYear = 1995;
-// birthYear = 2; //gives you an error
-// //const job; //give error too
+const birthYear = 1995;
+birthYear = 2; //gives you an error
+//const job; //give error too

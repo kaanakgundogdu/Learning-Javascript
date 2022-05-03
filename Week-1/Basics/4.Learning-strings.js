@@ -7,7 +7,14 @@ const presentation = " I'm  " + name + ', a ' + (currentYear - birthYear) + ' ye
 
 console.log(presentation);
 
-const presentation_New = `I'm ${name}, a ${currentYear - birthYear}, years old ${job}! `;
+const presentation_New = `I'm ${name}, a ${currentYear - birthYear} years old ${job}! `;
 
 console.log(presentation_New);
 
+console.log(`Just a regular string...`)
+
+console.log(`String with \n\ multiple \n\ lines`)
+
+console.log(`String with
+ multiple
+ lines`)
