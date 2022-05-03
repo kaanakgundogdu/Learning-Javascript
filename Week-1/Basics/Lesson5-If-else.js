@@ -15,7 +15,8 @@ let century;
 
 if (birthYear <= 2000) {
     century = 20;
-} else {
+}
+else {
     century = 21;
 }
 
