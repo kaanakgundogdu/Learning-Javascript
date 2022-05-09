@@ -13,4 +13,4 @@ console.log(newValue);
 //Than i added TODO Highlight extension its looking good
 //You can open setttings on json format and add highligt commands
 //https://github.com/wayou/vscode-todo-highlight/issues/93
-//FIXME BUG todo
+//FIXME BUG todo:
