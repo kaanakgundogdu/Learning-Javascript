@@ -1,11 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   background-color: rgb(249, 213, 199);
   font-family: Arial;
   font-size: 15px;
+  padding: 50px;
 }
 
 h1 {
   font-size: 30px;
+  margin-bottom: 25px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 20px;
 }
 
 .first {
@@ -15,4 +32,24 @@ h1 {
 #your-name {
   background-color: rgb(255, 224, 212);
   border: 2px solid #444;
+  width: 400px;
+  padding: 25px;
+  margin-top: 30px;
+}
+
+input,
+button {
+  padding: 10px;
+  font-size: 16px;
+}
+a {
+  background-color: aqua;
+}
+
+#course-image {
+  width: 500px;
+}
+
+#your-name h2 {
+  color: olivedrab;
 }
