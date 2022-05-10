@@ -9,4 +9,4 @@ You can find the lecture codes and challenge answers. Every section foldered and
 ![FunctionsReview](https://user-images.githubusercontent.com/62032779/167257364-4ef0266f-2806-424f-8341-5e303d3d29da.png)
 
 CSS BOX MODEL:
-![Screenshot](cssboxmodel.png)
+![Screenshot](3-Html-Css-Fundamentals\images\cssboxmodel.png)
