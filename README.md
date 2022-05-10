@@ -6,7 +6,14 @@ I made this repo by following "The Complete JavaScript Course 2022: From Zero to
 
 You can find the lecture codes and challenge answers. Every section foldered and named more clearly (at least for myself) by myself.
 
+If you want to use any scripts just go to the index.html file and uncomment (or comment) js file. 
+
+HTML JS FILE CONNECTION AND COMMENTED SCRIPTS:
+
+FUNCTIONS REVIEW:
+
 ![FunctionsReview](https://user-images.githubusercontent.com/62032779/167257364-4ef0266f-2806-424f-8341-5e303d3d29da.png)
 
 CSS BOX MODEL:
-![Screenshot](3-Html-Css-Fundamentals\images\cssboxmodel.png)
+
+![](https://github.com/kaanakgundogdu/Learning-Javascript/blob/main/3-Html-Css-Fundamentals/images/cssboxmodel.png)
