@@ -12,10 +12,22 @@ You can find the lecture codes and challenge answers. Every section foldered and
 
 ![](https://github.com/kaanakgundogdu/Learning-Javascript/blob/main/3-Html-Css-Fundamentals/images/Index.png)
 
-### FUNCTIONS REVIEW:
+### FROM 1-Fundamentals/2-Function,Objects,Arrays,Loops: FUNCTIONS REVIEW:
 
 ![FunctionsReview](https://user-images.githubusercontent.com/62032779/167257364-4ef0266f-2806-424f-8341-5e303d3d29da.png)
 
-### CSS BOX MODEL:
+### FROM 3-Html-Css-Fundamentals: CSS BOX MODEL:
 
 ![](https://github.com/kaanakgundogdu/Learning-Javascript/blob/main/3-Html-Css-Fundamentals/images/cssboxmodel.png)
+
+### FROM DOM and Events Fundamental: DOM:
+
+![](https://github.com/kaanakgundogdu/Learning-Javascript/blob/main/4-DOMandEventsFundamental/Imgaes/DOM.png)
+
+### DOM TREE:
+
+![](https://github.com/kaanakgundogdu/Learning-Javascript/blob/main/4-DOMandEventsFundamental/Imgaes/DOM-Tree2.png)
+
+### DOM AND JS:
+
+![](https://github.com/kaanakgundogdu/Learning-Javascript/blob/main/4-DOMandEventsFundamental/Imgaes/DOM-JS.png)
