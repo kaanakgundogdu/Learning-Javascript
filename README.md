@@ -31,3 +31,7 @@ You can find the lecture codes and challenge answers. Every section foldered and
 ### DOM AND JS:
 
 ![](https://github.com/kaanakgundogdu/Learning-Javascript/blob/main/4-DOMandEventsFundamental/Imgaes/DOM-JS.png)
+
+### PROJECT: PIG GAME:
+
+![](https://github.com/kaanakgundogdu/Learning-Javascript/blob/main/4-DOMandEventsFundamental/3-Pig-Game/images/piggame.png)
