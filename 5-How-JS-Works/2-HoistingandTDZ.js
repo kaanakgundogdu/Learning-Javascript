@@ -1,3 +1,5 @@
+'use strict';
+
 //variables
 
 console.log(me);
