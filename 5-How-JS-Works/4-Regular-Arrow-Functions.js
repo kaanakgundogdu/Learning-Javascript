@@ -47,4 +47,4 @@ var addArrow = (a, b) => {
   a + b;
 };
 
-addArrow(7, 6); //Arrow function has not arguments only exist regular functions
+addArrow(7, 6); //Arrow function has not arguments only exist regular functions. Gives error
